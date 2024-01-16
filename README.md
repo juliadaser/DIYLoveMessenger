@@ -18,5 +18,5 @@ We are using the ESP32 microcontrollers for this tutorial. We also created a pre
 6. [Some heat shrink tubes](https://www.adafruit.com/product/1649)
 7. [Two RGB LEDs](https://www.adafruit.com/product/159)
 8. Micro-USB wire used to power and to transmit data
-9. Four M2-0.4 x 10 mm Screws
+9. [8x M2-0.4 x 10 mm Screws](https://www.homedepot.com/p/Prime-Line-M2-0-4-x-10-mm-Grade-A2-70-Metric-Stainless-Steel-Phillips-Drive-Pan-Head-Machine-Screws-10-Pack-9130681/311229806)
 10. Resistors (3 x 220 ohm)

@@ -156,6 +156,7 @@ void loop() {
     Serial.println("Data download failed");
   }
 
+  // reset LED and button status
   ledStatusOld = ledStatus;
   buttonStateOld = buttonState;
 }

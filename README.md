@@ -24,13 +24,13 @@ We are using the ESP32 microcontrollers for this tutorial. We also created a pre
 10. [6x 220ohm Resistors](https://www.adafruit.com/product/2780) ($0.75 for pack of 25)
 
 ### Equipment needed
-3D printer
-Pliers
-Wire Stripper
-Small Screwdriver
-Soldering Kit
-Solder Sucker
-Heat Gun / Rework station
+1. 3D printer
+2. Pliers
+3. Wire Stripper
+4. Small Screwdriver
+5. Soldering Kit
+6. Solder Sucker
+7. Heat Gun / Rework station
 
 ## Process
 The tutorial includes 3D printing, setting up a real-time database (we used [Firebase](https://firebase.google.com/)), uploading some arduino code and assembling everything together! 

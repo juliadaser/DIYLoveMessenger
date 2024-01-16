@@ -37,6 +37,8 @@ The tutorial includes 3D printing, setting up a real-time database (we used [Fir
 
 Everything is documented in our YouTube Video. Here's the wiring diagram we used: 
 <br>
+<br>
+<br>
 <img src="WireDiagram.png" alt="wire diagram" width="600"/>
 
 

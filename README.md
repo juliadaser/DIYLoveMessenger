@@ -35,7 +35,9 @@ Heat Gun / Rework station
 ## Process
 The tutorial includes 3D printing, setting up a real-time database (we used [Firebase](https://firebase.google.com/)), uploading some arduino code and assembling everything together! 
 
-Everything is documented in our YouTube Video. Here's the wiring diagram we used: <img src="WireDiagram.png" alt="wire diagram" width="600"/>
+Everything is documented in our YouTube Video. Here's the wiring diagram we used: 
+<br>
+<img src="WireDiagram.png" alt="wire diagram" width="600"/>
 
 
 ## Contact us

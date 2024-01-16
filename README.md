@@ -35,7 +35,8 @@ Heat Gun / Rework station
 ## Process
 The tutorial includes 3D printing, setting up a real-time database (we used [Firebase](https://firebase.google.com/)), uploading some arduino code and assembling everything together! 
 
-Everything is documented in our YouTube Video. Here's the wiring diagram we used: ![WireDiagram](https://github.com/juliadaser/DIYLoveMessenger/assets/73170145/0e68ca2f-1672-4790-9244-f8133eb5c64a)
+Everything is documented in our YouTube Video. Here's the wiring diagram we used: <img src="WireDiagram.png" alt="wire diagram" width="300"/>
+
 
 ## Contact us
 We hope you guys had tons of fun building these DIY Love Messengers as much as we did!  If you have any questions/ feedback, do reach us at yiqing.ng@gmail.com.

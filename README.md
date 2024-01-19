@@ -39,7 +39,7 @@ Everything is documented in our YouTube Video. Here's the wiring diagram we used
 <br>
 <br>
 <br>
-<img src="WireDiagram2.png" alt="wire diagram" width="600"/>
+<img src="WireDiagram3.png" alt="wire diagram" width="600"/>
 
 
 ## Contact us

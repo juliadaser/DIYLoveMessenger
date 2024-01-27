@@ -3,6 +3,7 @@ By Julia Daser and Pepi Ng
 
 Demo of Love Messengers working:
 <br>
+<br>
 <img src="Media/gif.gif" alt="demo" width="600"/>
 
 ## About 

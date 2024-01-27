@@ -2,7 +2,8 @@
 By Julia Daser and Pepi Ng
 
 Demo of Love Messengers working:
-<img src="Media/gif.gif" alt="wire diagram" width="600"/>
+<br>
+<img src="Media/gif.gif" alt="demo" width="600"/>
 
 ## About 
 Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up! All files, code and 3D models can be found in this repository.

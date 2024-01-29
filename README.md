@@ -9,7 +9,7 @@ Demo of Love Messengers working:
 ## About 
 Our DIY Love Messengers are the perfect gift for your friends/ partners, especially long-distance ones! When the button of one love messenger is pressed, both of them will light up - no matter HOW FAR AWAY the two messengers are! All files, code and 3D models can be found in this repository.
 
-We also documented this in a tutorial [Link to our youtube tutorial)
+We also documented this in a [tutorial](https://www.youtube.com/watch?v=Ot5ihNqtx74&feature=youtu.be&ab_channel=WormiCollective)
 
 We are using the ESP32 microcontrollers for this tutorial. We also created a previous tutorial on [How to send data between many ESP32s from anywhere in the world](https://www.youtube.com/watch?v=Xx5cEIbBvZY&ab_channel=WormiCollective).
 
